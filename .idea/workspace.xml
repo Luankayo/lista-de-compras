@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="794c0c7a-df0e-4ffa-a303-e2ca108ec394" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wk37OJfCn0zhtli6Pvi1fOShX0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Mini_Desafio_Sistema_de _Gestão_de_Academia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Try_except_else_finally.executor&quot;: &quot;Run&quot;,
+    &quot;Python.any e all.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.automatizando mateus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conexao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio_revisao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicios_map+lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filtrar_alunos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min e max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modulo_random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pratica_07.05.25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.praticando random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.praticando.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reduce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reversed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revisao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revisao_2.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revisao_3.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revisao_geral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zip.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LUAN INOVATECH/PycharmProjects/Udemy_Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LUAN INOVATECH\PycharmProjects\Udemy_Python" />
+      <recent name="C:\Users\LUAN INOVATECH\PycharmProjects\Udemy_Python\.venv32" />
+      <recent name="C:\Users\LUAN INOVATECH\PycharmProjects\Udemy_Python\Filtro de Alunos\db" />
+      <recent name="C:\Users\LUAN INOVATECH\PycharmProjects\Udemy_Python\Filtro de Alunos\ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista de Compras" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista de Compras/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="automatizando mateus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 10 - Udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 10 - Udemy/automatizando mateus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Udemy_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="modulo_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 10 - Udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 10 - Udemy/modulo_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="praticando random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 10 - Udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 10 - Udemy/praticando random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="praticando" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 10 - Udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 10 - Udemy/praticando.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.automatizando mateus" />
+        <item itemvalue="Python.praticando random" />
+        <item itemvalue="Python.modulo_random" />
+        <item itemvalue="Python.praticando" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="794c0c7a-df0e-4ffa-a303-e2ca108ec394" name="Changes" comment="" />
+      <created>1746571579568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746571579568</updated>
+      <workItem from="1746571579964" duration="384000" />
+      <workItem from="1746571998378" duration="430000" />
+      <workItem from="1746572506384" duration="8072000" />
+      <workItem from="1746622380264" duration="6989000" />
+      <workItem from="1746632398690" duration="1663000" />
+      <workItem from="1747139485020" duration="7208000" />
+      <workItem from="1747172211191" duration="6583000" />
+      <workItem from="1747225301611" duration="1460000" />
+      <workItem from="1747247357647" duration="1946000" />
+      <workItem from="1747394859071" duration="4980000" />
+      <workItem from="1747417171205" duration="3005000" />
+      <workItem from="1747765444048" duration="4460000" />
+      <workItem from="1747929788300" duration="5450000" />
+      <workItem from="1748349955629" duration="4617000" />
+      <workItem from="1748378472191" duration="9518000" />
+      <workItem from="1748429367117" duration="2557000" />
+      <workItem from="1748558115268" duration="4783000" />
+      <workItem from="1748608205393" duration="8766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Udemy_Python$sorted.coverage" NAME="sorted Coverage Results" MODIFIED="1747172680651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$pratica_07_05_25.coverage" NAME="pratica_07.05.25 Coverage Results" MODIFIED="1746627995693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$min_e_max.coverage" NAME="min e max Coverage Results" MODIFIED="1747248923848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1747397553443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filtro_alunos" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$app.coverage" NAME="app Coverage Results" MODIFIED="1748637178166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lista de Compras" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$praticando.coverage" NAME="praticando Coverage Results" MODIFIED="1748558778269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$revisao_2_0.coverage" NAME="revisao_2.0 Coverage Results" MODIFIED="1747247469052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$reduce.coverage" NAME="reduce Coverage Results" MODIFIED="1747140399606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$map.coverage" NAME="map Coverage Results" MODIFIED="1746578009612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$any_e_all.coverage" NAME="any e all Coverage Results" MODIFIED="1747141957136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$reversed.coverage" NAME="reversed Coverage Results" MODIFIED="1747419073243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$filter.coverage" NAME="filter Coverage Results" MODIFIED="1747140264405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$zip.coverage" NAME="zip Coverage Results" MODIFIED="1747420351647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$revisao_3_0.coverage" NAME="revisao_3.0 Coverage Results" MODIFIED="1747930144264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$generators.coverage" NAME="generators Coverage Results" MODIFIED="1747159929262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$raise.coverage" NAME="raise Coverage Results" MODIFIED="1747771112942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$conexao.coverage" NAME="conexao Coverage Results" MODIFIED="1747396649122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/filtro_alunos/db" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1747396050555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Filtro de Alunos" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$Try_except_else_finally.coverage" NAME="Try_except_else_finally Coverage Results" MODIFIED="1748380931948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$revisao_geral.coverage" NAME="revisao_geral Coverage Results" MODIFIED="1747175007527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$desafio_revisao.coverage" NAME="desafio_revisao Coverage Results" MODIFIED="1747225989381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$modulo_random.coverage" NAME="modulo_random Coverage Results" MODIFIED="1748560513578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$try_except.coverage" NAME="try_except Coverage Results" MODIFIED="1748356884421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$revisao.coverage" NAME="revisao Coverage Results" MODIFIED="1748358689126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$Mini_Desafio_Sistema_de__Gestão_de_Academia.coverage" NAME="Mini_Desafio_Sistema_de _Gestão_de_Academia Coverage Results" MODIFIED="1747768562291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$automatizando_mateus.coverage" NAME="automatizando mateus Coverage Results" MODIFIED="1748636151086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$filtrar_alunos.coverage" NAME="filtrar_alunos Coverage Results" MODIFIED="1747395796279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Filtro de Alunos" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$praticando_random.coverage" NAME="praticando random Coverage Results" MODIFIED="1748635050644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 10 - Udemy" />
+    <SUITE FILE_PATH="coverage/Udemy_Python$exercicios_map_lambda.coverage" NAME="exercicios_map+lambda Coverage Results" MODIFIED="1746581339764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seção 09 - Udemy" />
+  </component>
+</project>
