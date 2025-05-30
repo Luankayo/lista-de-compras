@@ -1,6 +1,16 @@
+import os
 from flask import Flask, render_template, request, redirect, url_for
+from dotenv import load_dotenv
+
+load_dotenv()  # carrega o .env local
 
 app = Flask(__name__)
+
+# pega secret key do ambiente (Render) ou do .env local
+app.secret_key = os.getenv('SECRET_KEY', 'chave_padrao_temporaria')
+
+# pega se deve rodar em modo debug (True/False)
+debug_mode = os.getenv('FLASK_DEBUG', 'False').lower() in ['true', '1', 'yes']
 
 compras = {}
 
@@ -44,4 +54,4 @@ def atualizar():
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0')
+    app.run(debug=debug_mode, host='0.0.0.0')
