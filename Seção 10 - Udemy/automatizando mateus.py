@@ -20,7 +20,7 @@ while True:
     except ValueError:
         print("ERRO! Digite um número válido.")
 
-print('\n---------- Lista de Compras ----------')
+print('\n---------- lista_de_compras ----------')
 total = 0
 for produto, valor in compras.items():
     print(f'{produto}: R$ {valor:.2f}')
