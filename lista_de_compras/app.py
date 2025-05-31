@@ -28,9 +28,7 @@ compras = {}
 def index():
     if 'username' not in session:
         return redirect(url_for('login'))
-    usuario = session['username']
-    total = sum(item['quantidade'] * item['valor'] for item in compras.values())
-    return render_template('index.html', usuario=usuario, compras=compras, total=total)
+    return redirect(url_for('dashboard'))
 
 @app.route('/adicionar', methods=['POST'])
 def adicionar():
