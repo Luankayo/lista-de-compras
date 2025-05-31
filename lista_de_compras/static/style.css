@@ -7,15 +7,15 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #e0f7fa, #ffffff);
-    margin: 40px auto;
-    max-width: 600px;
-    padding: 20px 30px;
+    margin: 0;
+    padding: 20px;
     color: #222;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
 }
+
 
 /* Cabeçalho */
 h1 {
