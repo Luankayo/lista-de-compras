@@ -13,7 +13,7 @@
     <p>Usuário logado: <strong>{{ usuario }}</strong> | <a href="{{ url_for('logout') }}">Sair</a></p>
     {% endif %}
 
-    <form action="/adicionar" method="POST">
+    <form action="{{ url_for('adicionar') }}" method="POST">
         <label>Produto:</label>
         <input type="text" name="produto" required /><br />
 
@@ -30,10 +30,10 @@
     <ul>
         {% for produto, item in compras.items() %}
         <li>
-            {{ produto }} — Quantidade: {{ item.quantidade }} — R$ {{ '%.2f' | format(item.valor) }}
-            (Subtotal: R$ {{ '%.2f' | format(item.quantidade * item.valor) }})
-            <a href="/editar/{{ produto }}">[Editar]</a>
-            <a href="/deletar/{{ produto }}" onclick="return confirm('Quer mesmo deletar {{ produto }}?')">[Deletar]</a>
+            {{ produto }} — Quantidade: {{ item['quantidade'] }} — R$ {{ '%.2f' | format(item['valor']) }}
+            (Subtotal: R$ {{ '%.2f' | format(item['quantidade'] * item['valor']) }})
+            <a href="{{ url_for('editar', produto=produto) }}">[Editar]</a>
+            <a href="{{ url_for('deletar', produto=produto) }}" onclick="return confirm('Quer mesmo deletar {{ produto }}?')">[Deletar]</a>
         </li>
         {% endfor %}
     </ul>

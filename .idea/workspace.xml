@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="794c0c7a-df0e-4ffa-a303-e2ca108ec394" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seção 10 - Udemy/automatizando mateus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seção 10 - Udemy/automatizando mateus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_de_compras/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista_de_compras/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,6 +70,7 @@
     "Python.try_except.executor": "Run",
     "Python.zip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/LUAN INOVATECH/PycharmProjects/Udemy_Python",
@@ -274,7 +273,8 @@
       <workItem from="1748429367117" duration="2557000" />
       <workItem from="1748558115268" duration="4783000" />
       <workItem from="1748608205393" duration="8766000" />
-      <workItem from="1748640332262" duration="5890000" />
+      <workItem from="1748640332262" duration="6263000" />
+      <workItem from="1748647967102" duration="5491000" />
     </task>
     <servers />
   </component>
