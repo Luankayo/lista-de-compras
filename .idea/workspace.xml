@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="794c0c7a-df0e-4ffa-a303-e2ca108ec394" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lista_de_compras/static/css/style_lista.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista_de_compras/static/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lista_de_compras/templates/editar.html" beforeDir="false" afterPath="$PROJECT_DIR$/lista_de_compras/templates/editar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista_de_compras/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lista_de_compras/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista_de_compras/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/lista_de_compras/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
