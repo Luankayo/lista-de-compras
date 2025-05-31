@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Login - Controle Financeiro</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
@@ -12,7 +11,7 @@
         {% if error %}
             <div class="error">{{ error }}</div>
         {% endif %}
-        <form method="POST" action="{{ url_for('login') }}">
+        <form method="POST" action="/login">
             <label for="username">Usuário</label>
             <input type="text" id="username" name="username" required autofocus />
             <label for="password">Senha</label>
