@@ -7,14 +7,13 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #e0f7fa, #ffffff);
-    margin: 40px auto;
-    max-width: 600px;
-    padding: 20px 30px;
-    color: #222;
+    margin: 0;
     min-height: 100vh;
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    color: #222;
 }
 
 /* Cabeçalho */
@@ -144,7 +143,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Responsividade */
+/* Responsividade geral */
 @media (max-width: 600px) {
     body {
         margin: 20px 10px;
@@ -173,16 +172,16 @@ a:hover {
     }
 }
 
-/* Login page extra styles */
+/* Ajustes da página de login */
 .login-box {
     background: white;
-    padding: 30px 35px;
+    padding: 25px 20px;
     border-radius: 10px;
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 400px;
-    margin: auto;
-    margin-top: 80px;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 
 .login-box h2 {
@@ -194,11 +193,11 @@ a:hover {
 
 .login-box input[type="text"],
 .login-box input[type="password"] {
-    padding: 12px;
+    padding: 14px;
     margin-bottom: 20px;
     border: 1.5px solid #009688;
     border-radius: 6px;
-    font-size: 16px;
+    font-size: 18px;
     width: 100%;
 }
 
@@ -208,7 +207,7 @@ a:hover {
     color: white;
     padding: 14px;
     width: 100%;
-    font-size: 16px;
+    font-size: 18px;
     border-radius: 6px;
     font-weight: 700;
     cursor: pointer;
@@ -225,4 +224,12 @@ a:hover {
     margin-top: 10px;
     text-align: center;
     font-weight: bold;
+}
+
+/* Ajustes extra para telas bem pequenas */
+@media (max-width: 400px) {
+    .login-box {
+        padding: 15px 15px;
+        margin-top: 20px;
+    }
 }
