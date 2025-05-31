@@ -1,0 +1,29 @@
+/* Reset e base */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    color: #222;
+}
+
+button {
+    background-color: #00796b;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 8px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    box-shadow: 0 6px 12px rgba(0, 121, 107, 0.4);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:hover {
+    background-color: #004d40;
+    box-shadow: 0 10px 20px rgba(0, 77, 64, 0.6);
+}
