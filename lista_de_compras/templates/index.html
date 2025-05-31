@@ -9,6 +9,10 @@
 <body>
     <h1>Lista de Compras</h1>
 
+    {% if usuario %}
+    <p>Usuário logado: <strong>{{ usuario }}</strong> | <a href="{{ url_for('logout') }}">Sair</a></p>
+    {% endif %}
+
     <form action="/adicionar" method="POST">
         <label>Produto:</label>
         <input type="text" name="produto" required /><br />

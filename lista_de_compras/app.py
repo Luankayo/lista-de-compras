@@ -1,10 +1,20 @@
 import os
 from flask import Flask, render_template, request, redirect, url_for
 from dotenv import load_dotenv
+from flask import session
+import json
+
 
 load_dotenv()  # carrega o .env local
 
 app = Flask(__name__)
+
+usuarios = {
+    'luan': '1234',
+    'maria': 'abcd',
+    'joao': '4321'
+}
+
 
 # pega secret key do ambiente (Render) ou do .env local
 app.secret_key = os.getenv('SECRET_KEY', 'chave_padrao_temporaria')
@@ -16,8 +26,11 @@ compras = {}
 
 @app.route('/')
 def index():
+    if 'username' not in session:
+        return redirect(url_for('login'))
+    usuario = session['username']
     total = sum(item['quantidade'] * item['valor'] for item in compras.values())
-    return render_template('index.html', compras=compras, total=total)
+    return render_template('index.html', usuario=usuario, compras=compras, total=total)
 
 @app.route('/adicionar', methods=['POST'])
 def adicionar():
@@ -52,6 +65,43 @@ def atualizar():
 
     compras[produto_novo] = {'quantidade': quantidade, 'valor': valor}
     return redirect(url_for('index'))
+
+def carregar_historico(usuario):
+    try:
+        with open('lista_compras.json', 'r') as f:
+            dados = json.load(f)
+        return dados.get(usuario, [])
+    except:
+        return []
+
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    error = None
+    if request.method == 'POST':
+        username = request.form['username']
+        password = request.form['password']
+
+        if username in usuarios and usuarios[username] == password:
+            session['username'] = username
+            return redirect(url_for('dashboard'))
+        else:
+            error = 'Usuário ou senha inválidos.'
+
+    return render_template('login.html', error=error)
+
+@app.route('/dashboard')
+def dashboard():
+    if 'username' not in session:
+        return redirect(url_for('login'))
+    usuario = session['username']
+    historico = carregar_historico(usuario)
+    total = sum(item['quantidade'] * item['valor'] for item in compras.values())
+    return render_template('index.html', usuario=usuario, compras=compras, total=total, historico=historico)
+
+@app.route('/logout')
+def logout():
+    session.pop('username', None)
+    return redirect(url_for('login'))
 
 if __name__ == '__main__':
     app.run(debug=debug_mode, host='0.0.0.0')
